@@ -2,7 +2,7 @@
 
 # Introduction à l'IA avec un Trieur de Couleurs pour M&M's
 
-<a>href=https://github.com/flasne/Tri-de-M-Ms<a>
+<a href="https://github.com/flasne/Tri-de-M-Ms"</a>
 
 ## 1. Introduction Générale
 
